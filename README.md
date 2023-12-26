@@ -1,4 +1,4 @@
-For Summarization of Dialogues BART(pegasus) is finetuned using SamSum Dataset using rouge score.
+Fine-tune BART for text summarization with precision, leveraging ROUGE-1, ROUGE-2, ROUGE-L, and ROUGE-Lsum scores.
 
 Results:
 <img width="923" alt="Screenshot 2023-12-22 at 5 36 47 PM" src="https://github.com/ndvHareesh/TextSummarization-on-SamSum-Dataset/assets/89001360/bc582930-645d-4098-9b01-06370cea8232">
